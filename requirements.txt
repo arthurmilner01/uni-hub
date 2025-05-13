@@ -1,0 +1,8 @@
+django
+mysqlclient
+djoser
+djangorestframework-simplejwt
+pillow
+django-cors-headers
+boto3 
+django-storages
